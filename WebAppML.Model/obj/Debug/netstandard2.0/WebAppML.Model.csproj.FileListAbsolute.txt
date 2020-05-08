@@ -1,0 +1,10 @@
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\bin\Debug\netstandard2.0\WebAppML.Model.deps.json
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\bin\Debug\netstandard2.0\WebAppML.Model.dll
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\bin\Debug\netstandard2.0\WebAppML.Model.pdb
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.csprojAssemblyReference.cache
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.AssemblyInfoInputs.cache
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.AssemblyInfo.cs
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.dll
+C:\Users\H.Singh\source\repos\StockPredictionAPI-ASP.NET\WebAppML.Model\obj\Debug\netstandard2.0\WebAppML.Model.pdb
